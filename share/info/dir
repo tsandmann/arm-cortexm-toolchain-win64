@@ -54,6 +54,7 @@ Software development
 * Gas: (as).                    The GNU assembler.
 * Gdb: (gdb).                   The GNU debugger.
 * Ld: (ld).                     The GNU linker.
+* Make: (make).                 Remake files automatically.
 * Stabs: (stabs).               The "stabs" debugging information format.
 * g++: (gcc).                   The GNU C++ compiler.
 * gcc: (gcc).                   The GNU Compiler Collection.
@@ -66,3 +67,4 @@ Software development
                                   processing program.
 * gdbserver: (gdb) Server.      The GNU debugging server.
 * gprof: (gprof).               Profiling your program's execution
+* lto-dump: (gcc) lto-dump.     'lto-dump'--Tool for dumping LTO object files.
