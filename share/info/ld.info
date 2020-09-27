@@ -1,4 +1,4 @@
-This is ld.info, produced by makeinfo version 6.6 from ld.texi.
+This is ld.info, produced by makeinfo version 6.7 from ld.texi.
 
 This file documents the GNU linker LD (GNU Binutils) version 2.35.
 
@@ -9058,3 +9058,8 @@ Node: GNU Free Documentation License331825
 Node: LD Index356962
 
 End Tag Table
+
+
+Local Variables:
+coding: utf-8
+End:

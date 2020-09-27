@@ -19,8 +19,8 @@ import gdb
 import os
 import os.path
 
-pythondir = '/usr/local/mingw64/arm-none-eabi/share/gcc-10.2.0/python'
-libdir = '/usr/local/mingw64/arm-none-eabi/arm-cortexm7f-eabi/lib'
+pythondir = '/usr/local/arm-none-eabi/share/gcc-10.2.0/python'
+libdir = '/usr/local/arm-none-eabi/arm-cortexm7f-eabi/lib'
 
 # This file might be loaded when there is no current objfile.  This
 # can happen if the user loads it manually.  In this case we don't
