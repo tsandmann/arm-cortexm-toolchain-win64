@@ -1,4 +1,4 @@
-This is gdb.info, produced by makeinfo version 6.7 from gdb.texinfo.
+This is gdb.info, produced by makeinfo version 6.8 from gdb.texinfo.
 
 Copyright (C) 1988-2020 Free Software Foundation, Inc.
 
@@ -52413,7 +52413,7 @@ Concept Index
 * display command history:               Command History.    (line   95)
 * display derived types:                 Print Settings.     (line  541)
 * display disabled out of scope:         Auto Display.       (line   86)
-* display GDB copyright:                 Help.               (line  158)
+* display GDB copyright:                 Help.               (line  157)
 * display of expressions:                Auto Display.       (line    6)
 * display remote monitor communications: Target Commands.    (line  107)
 * display remote packets:                Debugging Output.   (line  159)
@@ -52590,7 +52590,7 @@ Concept Index
 * GDB reference card:                    Formatting Documentation.
                                                              (line    6)
 * GDB startup:                           Startup.            (line    6)
-* GDB version number:                    Help.               (line  148)
+* GDB version number:                    Help.               (line  147)
 * gdb.ini:                               Startup.            (line   69)
 * gdb.printing:                          gdb.printing.       (line    6)
 * gdb.prompt:                            gdb.prompt.         (line    6)
@@ -53095,7 +53095,7 @@ Concept Index
 * print list of auto-loaded Python scripts: Python Auto-loading.
                                                              (line   23)
 * print messages on inferior start and exit: Inferiors and Programs.
-                                                             (line  126)
+                                                             (line  124)
 * print messages on thread start and exit: Threads.          (line  272)
 * print messages when symbols are loaded: Symbols.           (line  600)
 * print settings:                        Print Settings.     (line    6)
@@ -53263,7 +53263,7 @@ Concept Index
 * ranged breakpoint:                     PowerPC Embedded.   (line   33)
 * ranges of breakpoints:                 Breakpoints.        (line   45)
 * Ravenscar Profile:                     Ravenscar Profile.  (line    6)
-* raw printing:                          Output Formats.     (line   76)
+* raw printing:                          Output Formats.     (line   75)
 * read special object, remote request:   General Query Packets.
                                                              (line 1113)
 * read, file-i/o system call:            read.               (line    6)
@@ -54186,7 +54186,7 @@ Command, Variable, and Function Index
 * add-auto-load-scripts-directory:       objfile-gdbdotext file.
                                                               (line  64)
 * add-inferior:                          Inferiors and Programs.
-                                                              (line  69)
+                                                              (line  68)
 * add-symbol-file:                       Files.               (line 123)
 * add-symbol-file-from-memory:           Files.               (line 193)
 * adi assign:                            Sparc64.             (line  45)
@@ -54458,7 +54458,7 @@ Command, Variable, and Function Index
 * clear-screen (C-l):                    Commands For Moving. (line  40)
 * ClearObjFilesEvent.progspace:          Events In Python.    (line 125)
 * clone-inferior:                        Inferiors and Programs.
-                                                              (line  76)
+                                                              (line  75)
 * collect (tracepoints):                 Tracepoint Actions.  (line  49)
 * colon-colon, in Modula-2:              M2 Scope.            (line   6)
 * colored-completion-prefix:             Readline Init File Syntax.
@@ -54580,7 +54580,7 @@ Command, Variable, and Function Index
 * detach:                                Attach.              (line  36)
 * detach (remote):                       Connecting.          (line 256)
 * detach inferiors INFNO...:             Inferiors and Programs.
-                                                              (line 105)
+                                                              (line 104)
 * digit-argument (M-0, M-1, ... M--):    Numeric Arguments.   (line   6)
 * dir:                                   Source Path.         (line  99)
 * directory:                             Source Path.         (line  99)
@@ -55124,7 +55124,7 @@ Command, Variable, and Function Index
 * info classes:                          Symbols.             (line 570)
 * info common:                           Special Fortran Commands.
                                                               (line   9)
-* info copying:                          Help.                (line 158)
+* info copying:                          Help.                (line 157)
 * info dcache:                           Caching Target Data. (line  46)
 * info display:                          Auto Display.        (line  78)
 * info dll:                              Files.               (line 336)
@@ -55178,7 +55178,7 @@ Command, Variable, and Function Index
 * info scope:                            Symbols.             (line 415)
 * info selectors:                        Symbols.             (line 576)
 * info serial:                           DJGPP Native.        (line 139)
-* info set:                              Help.                (line 141)
+* info set:                              Help.                (line 140)
 * info share:                            Files.               (line 330)
 * info sharedlibrary:                    Files.               (line 330)
 * info signals:                          Signals.             (line  33)
@@ -55205,7 +55205,7 @@ Command, Variable, and Function Index
 * info variables:                        Symbols.             (line 512)
 * info vector:                           Vector Unit.         (line   9)
 * info w32:                              Cygwin Native.       (line  19)
-* info warranty:                         Help.                (line 162)
+* info warranty:                         Help.                (line 161)
 * info watchpoints [LIST...]:            Set Watchpoints.     (line  87)
 * info win:                              TUI Commands.        (line  26)
 * info-gdb-mi-command:                   GDB/MI Support Commands.
@@ -55255,7 +55255,7 @@ Command, Variable, and Function Index
                                                               (line 199)
 * kill:                                  Kill Process.        (line   6)
 * kill inferiors INFNO...:               Inferiors and Programs.
-                                                              (line 111)
+                                                              (line 110)
 * kill-line (C-k):                       Commands For Killing.
                                                               (line   6)
 * kill-region ():                        Commands For Killing.
@@ -55361,7 +55361,7 @@ Command, Variable, and Function Index
                                                               (line  62)
 * maint info line-table:                 Symbols.             (line 692)
 * maint info program-spaces:             Inferiors and Programs.
-                                                              (line 148)
+                                                              (line 145)
 * maint info psymtabs:                   Symbols.             (line 645)
 * maint info sections:                   Files.               (line 220)
 * maint info selftests:                  Maintenance Commands.
@@ -55543,8 +55543,8 @@ Command, Variable, and Function Index
                                                               (line  45)
 * memory-port?:                          Memory Ports in Guile.
                                                               (line  29)
-* MemoryChangedEvent.address:            Events In Python.    (line 162)
-* MemoryChangedEvent.length:             Events In Python.    (line 165)
+* MemoryChangedEvent.address:            Events In Python.    (line 161)
+* MemoryChangedEvent.length:             Events In Python.    (line 164)
 * memset:                                Bootstrapping.       (line  70)
 * menu-complete ():                      Commands For Completion.
                                                               (line  22)
@@ -55563,10 +55563,10 @@ Command, Variable, and Function Index
 * name of type_printer:                  Type Printing API.   (line  18)
 * new-ui:                                Interpreters.        (line  68)
 * newest-frame:                          Frames In Guile.     (line 160)
-* NewInferiorEvent.inferior:             Events In Python.    (line 204)
-* NewInferiorEvent.inferior <1>:         Events In Python.    (line 215)
+* NewInferiorEvent.inferior:             Events In Python.    (line 203)
+* NewInferiorEvent.inferior <1>:         Events In Python.    (line 214)
 * NewObjFileEvent.new_objfile:           Events In Python.    (line 115)
-* NewThreadEvent.inferior_thread:        Events In Python.    (line 223)
+* NewThreadEvent.inferior_thread:        Events In Python.    (line 222)
 * next:                                  Continuing and Stepping.
                                                               (line  77)
 * next&:                                 Background Execution.
@@ -55881,14 +55881,14 @@ Command, Variable, and Function Index
                                                               (line  87)
 * register-command!:                     Commands In Guile.   (line  58)
 * register-parameter!:                   Parameters In Guile. (line  94)
-* RegisterChangedEvent.frame:            Events In Python.    (line 172)
-* RegisterChangedEvent.regnum:           Events In Python.    (line 175)
+* RegisterChangedEvent.frame:            Events In Python.    (line 171)
+* RegisterChangedEvent.regnum:           Events In Python.    (line 174)
 * register_xmethod_matcher:              Xmethod API.         (line  82)
 * remote delete:                         File Transfer.       (line  23)
 * remote get:                            File Transfer.       (line  19)
 * remote put:                            File Transfer.       (line  15)
 * remove-inferiors:                      Inferiors and Programs.
-                                                              (line  95)
+                                                              (line  94)
 * remove-symbol-file:                    Files.               (line 174)
 * restart CHECKPOINT-ID:                 Checkpoint/Restart.  (line  41)
 * restore:                               Dump/Restore Files.  (line  40)
@@ -55941,7 +55941,7 @@ Command, Variable, and Function Index
 * selected-frame:                        Frames In Guile.     (line 156)
 * self:                                  Commands In Guile.   (line 100)
 * self-insert (a, b, A, 1, !, ...):      Commands For Text.   (line  33)
-* set:                                   Help.                (line 129)
+* set:                                   Help.                (line 128)
 * set ada print-signatures:              Overloading support for Ada.
                                                               (line  31)
 * set ada trust-PAD-over-XVS:            Ada Glitches.        (line  42)
@@ -56044,7 +56044,7 @@ Command, Variable, and Function Index
 * set exec-wrapper:                      Starting.            (line 120)
 * set extended-prompt:                   Prompt.              (line  25)
 * set extension-language:                Show.                (line  30)
-* set follow-exec-mode:                  Forks.               (line 105)
+* set follow-exec-mode:                  Forks.               (line 103)
 * set follow-fork-mode:                  Forks.               (line  39)
 * set frame-filter priority:             Frame Filter Management.
                                                               (line  84)
@@ -56098,7 +56098,7 @@ Command, Variable, and Function Index
 * set print frame-arguments:             Print Settings.      (line 154)
 * set print frame-info:                  Print Settings.      (line 314)
 * set print inferior-events:             Inferiors and Programs.
-                                                              (line 126)
+                                                              (line 124)
 * set print symbol-loading:              Symbols.             (line 600)
 * set print thread-events:               Threads.             (line 272)
 * set print type methods:                Symbols.             (line  44)
@@ -56218,7 +56218,7 @@ Command, Variable, and Function Index
 * share:                                 Files.               (line 339)
 * sharedlibrary:                         Files.               (line 339)
 * shell:                                 Shell Commands.      (line  10)
-* show:                                  Help.                (line 134)
+* show:                                  Help.                (line 133)
 * show ada print-signatures:             Overloading support for Ada.
                                                               (line  36)
 * show ada trust-PAD-over-XVS:           Ada Glitches.        (line  42)
@@ -56267,10 +56267,10 @@ Command, Variable, and Function Index
 * show com4irq:                          DJGPP Native.        (line 134)
 * show commands:                         Command History.     (line  95)
 * show complaints:                       Messages/Warnings.   (line  35)
-* show configuration:                    Help.                (line 167)
+* show configuration:                    Help.                (line 166)
 * show confirm:                          Messages/Warnings.   (line  57)
 * show convenience:                      Convenience Vars.    (line  37)
-* show copying:                          Help.                (line 158)
+* show copying:                          Help.                (line 157)
 * show cp-abi:                           ABI.                 (line  57)
 * show cwd:                              Working Directory.   (line  27)
 * show cygwin-exceptions:                Cygwin Native.       (line  68)
@@ -56353,7 +56353,7 @@ Command, Variable, and Function Index
 * show print finish:                     Continuing and Stepping.
                                                               (line 117)
 * show print inferior-events:            Inferiors and Programs.
-                                                              (line 134)
+                                                              (line 132)
 * show print symbol-loading:             Symbols.             (line 615)
 * show print thread-events:              Threads.             (line 282)
 * show print type methods:               Symbols.             (line  53)
@@ -56416,8 +56416,8 @@ Command, Variable, and Function Index
 * show values:                           Value History.       (line  47)
 * show varsize-limit:                    Ada Settings.        (line  26)
 * show verbose:                          Messages/Warnings.   (line  21)
-* show version:                          Help.                (line 148)
-* show warranty:                         Help.                (line 162)
+* show version:                          Help.                (line 147)
+* show warranty:                         Help.                (line 161)
 * show width:                            Screen Size.         (line  22)
 * show write:                            Patching.            (line  26)
 * show-all-if-ambiguous:                 Readline Init File Syntax.
