@@ -37,11 +37,9 @@
 
 #include <bits/c++config.h>
 
-// Need to ensure this finds the C library's <fenv.h> not a libstdc++
-// wrapper that might already be installed later in the include search path.
-#define _GLIBCXX_INCLUDE_NEXT_C_HEADERS
-#include_next <fenv.h>
-#undef _GLIBCXX_INCLUDE_NEXT_C_HEADERS
+#if _GLIBCXX_HAVE_FENV_H
+# include <fenv.h>
+#endif
 
 #ifdef _GLIBCXX_USE_C99_FENV_TR1
 
