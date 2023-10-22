@@ -2,7 +2,7 @@
     "name": "toolchain-arm-cortexm-win64",
     "description": "Cross-compiler toolchain for Windows (64 Bit) host and arm-none-eabi targets optimized for cortex-m0+, cortex-m4f and cortex-m7f.",
     "url": "https://github.com/tsandmann/arm-cortexm-toolchain-win64",
-    "version": "13.2.0-2",
+    "version": "13.2.0-3",
     "license": "GPL-2.0-or-later",
     "system": [
         "windows",
